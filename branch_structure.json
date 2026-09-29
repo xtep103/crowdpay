@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/localized-campaign-content-language-fallback",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/localized-campaign-content-language-fallback": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/localized-campaign-content-language-fallback",
+    "origin"
+  ]
+}
